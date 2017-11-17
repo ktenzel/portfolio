@@ -75,10 +75,9 @@ body{
   text-align: center;
   margin: 0;
   padding: 0;
-  background-image: url(../img/wall.jpg);
+  background-image: url(https://hdwallsource.com/img/2014/2/gif-wallpaper-32368-33113-hd-wallpapers.jpg);
   background-position: left;
-  background-repeat: repeat-y;
-  background-color: #e2fdff;
+  background-repeat: no-repeat;
 }
 
 span:hover {
