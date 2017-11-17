@@ -41,10 +41,15 @@
   margin: 0;
 }
 
+.school {
+padding: 0;
+font-size: 1em;
+}
+
 .text {
   text-align: left;
   font-size: 1.3em;
-  background-color: rgba(153, 153, 153, 0.8);
+  background-color: rgba(153, 153, 153, 0.5);
   padding-left: 15%;
   padding-right: 15%;
   margin-left: 10%;
@@ -55,8 +60,9 @@
 li{
 text-align: center;
 display: inline-block;
-padding-left: 10%;
-padding-right: 10%;
+padding-left: 5%;
+padding-right: 5%;
+padding-bottom: 10px;
 font-family: sans-serif;
 font-size: 1.5em;
 }
@@ -66,7 +72,9 @@ body{
   margin: 0;
   padding: 0;
   background-image: url(../img/wall.jpg);
-  background-position: center;
+  background-position: left;
+  background-repeat: repeat-y;
+  background-color: #eafcf9;
 }
 
 div{
@@ -74,17 +82,35 @@ div{
   padding: 0;
 }
 
+span:hover {
+  background-color: gold;
+}
 #henry{
   max-width: 50%;
   float: left;
   height: 200px;
   align-content: center;
 }
+
+#home {
+  width: 30px;
+  margin-top: 4px;
+}
+
  #logo {
    float: left;
    padding: 1px;
    margin: 0;
  }
+#order li{
+  text-align: left;
+  list-style-type: disc;
+  display: list-item;
+  font-size: 1em;
+  font-weight: normal;
+}
+
+
 
 #wake {
   max-width: 50%;
