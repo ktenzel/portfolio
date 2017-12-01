@@ -7,7 +7,7 @@
 ## Description
 
 _This is a four page website with pages aboutme and what I've learned so far._
-_ktenzel.github.io/portfolio.git_
+#_ktenzel.github.io/portfolio.git_
 
 ## Setup/Installation Requirements
 
